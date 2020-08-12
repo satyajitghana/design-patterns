@@ -1,3 +1,7 @@
+/**
+ * source: http://www.vishalchovatiya.com/crtp-c-examples/
+*/
+
 #include <iostream>
 
 template <typename specific_animal>
